@@ -104,7 +104,7 @@ function App() {
               <div className="absolute top-0 left-0 rounded-full h-full bg-[#D6A13A]/20" style={{ width: `${(50 / 50) * 100}%` }}></div>
             </div>
           </div>
-          <button className='rounded-full bg-blue-500 text-xs px-5 text-white mr-3'>Invite friends</button>
+          <button className='rounded-full bg-blue-500 text-xs px-5 text-white mr-3 py-0.5'>Invite friends</button>
         </div>
         {/* Buttons */}
         <div className="grid grid-cols-3 gap-2 w-full">
