@@ -6,6 +6,7 @@ import btcImg from './assets/btc.png';
 import coinImg from './assets/coin.svg';
 import energyImg from './assets/energy.png';
 import friendsImg from './assets/friends.svg';
+import Splashscreen from './components/Splashscreen';
 
 function App() {
   const navigate = useNavigate();
